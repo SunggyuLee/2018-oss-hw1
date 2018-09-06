@@ -4,6 +4,6 @@
 
 This project is only for OSS class of CSE CNU.
 
-Below, [your name] ( [your student ID] ) : Java, Python, C (in the order you prefer to use)
+Below, [your name] ( [your student ID] ) : Java, Python, C (in the order you prefer to use) ==> [ github link ] 
 
-ex) 홍길동(20181234) : Java, C, C++ 
+ex) 홍길동(20181234) : Java, C, C++ ==> http://testhompage.set
