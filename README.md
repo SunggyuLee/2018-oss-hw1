@@ -34,3 +34,5 @@ ex) 홍길동(20181234) : Java, C, C++
 한진영(201402448) : Java, C, C++, Python
 
 1.정진휘(201402429) : Java, C, C++
+
+권대원(201402317) : Java, Javascript, C
