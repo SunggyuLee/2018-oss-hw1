@@ -6,8 +6,6 @@ This project is only for OSS class of CSE CNU.
 
 Below, [your name] ( [your student ID] ) : Java, Python, C (in the order you prefer to use) 
 
-강천성(201504278) : C, Java, Python, Tensorflow
-
 ex) 홍길동(20181234) : Java, C, C++ 
 
 =======
@@ -42,3 +40,5 @@ ex) 홍길동(20181234) : Java, C, C++
 임형섭(201402412) : Java, R , C, Python
 
 김미지(201601974) : Java, C, Python, HTML, JavaScript
+
+강천성(201504278) : C, Java, Python, Tensorflow
