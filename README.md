@@ -54,3 +54,5 @@ ex) 홍길동(20181234) : Java, C, C++
 이예은(201602046) : Java, JavaScript
 
 진수연(201602082) : Java, Python
+
+정태표(201302485) : Java, Python, C, HTML
