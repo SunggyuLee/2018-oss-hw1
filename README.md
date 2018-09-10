@@ -7,8 +7,6 @@ This project is only for OSS class of CSE CNU.
 Below, [your name] ( [your student ID] ) : Java, Python, C (in the order you prefer to use) 
 
 ex) 홍길동(20181234) : Java, C, C++ 
-
-
 =======
 
 박준원(201402355) : Java, C, C++ 
@@ -54,3 +52,5 @@ ex) 홍길동(20181234) : Java, C, C++
 안정은(201602021) : Java, C++
 
 이예은(201602046) : Java, JavaScript
+
+진수연(201602082) : Java, Python
