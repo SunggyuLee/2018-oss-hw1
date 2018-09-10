@@ -22,3 +22,5 @@ ex) 홍길동(20181234) : Java, C, C++
 이수정(201602042) : Java, C
 
 1. 남진우(201402343) : Java, C, Javascript
+
+전형진(201402420) : Java, C, HTML, Javascript
