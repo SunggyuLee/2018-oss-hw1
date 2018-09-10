@@ -44,3 +44,5 @@ ex) 홍길동(20181234) : Java, C, C++
 강천성(201504278) : C, Java, Python, Tensorflow
 
 한정원(201602089) : Java, Python, C++, C
+
+이운형(201302458) : Java, Objective-C, C++
