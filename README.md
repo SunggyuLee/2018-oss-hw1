@@ -29,3 +29,7 @@ ex) 홍길동(20181234) : Java, C, C++
 1) 현도훈(201402450) : Java, C
 
 조정진(201402436) : Java, Matlab, Python, C++
+
+
+한진영(201402448) : Java, C, C++, Python
+
