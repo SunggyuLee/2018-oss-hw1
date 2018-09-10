@@ -38,3 +38,5 @@ ex) 홍길동(20181234) : Java, C, C++
 권대원(201402317) : Java, Javascript, C
 
 임형섭(201402412) : Java, R , C, Python
+
+김미지(201601974) : Java, C, Python, HTML, JavaScript
